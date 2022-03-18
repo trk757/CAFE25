@@ -11,6 +11,7 @@
 + 깃허브 페이지로 배포
 
 [링크]( https://trk757.github.io/CAFE25/)
+[링크](http://127.0.0.1:5500/index.html#)
 
 # 2022년 3월 17일 오전
 + favicon 추가
